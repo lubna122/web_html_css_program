@@ -1,0 +1,23 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Smart Home</title>
+</head>
+<style>
+    *{
+        text-align: center;
+        background-color: blanchedalmond;
+    }
+</style>
+<body>
+    <h1>Smart Home</h1>
+    <h2>Room 1</h2>
+    <a href=\"/led1on\"\""><button> Led 1 ON</button></a>
+    <a href=\"/led1off\"\"><button> Led 1 OFF</button></a>
+    <br><br>
+    <a href=\"/led2on\"\""><button>Led 2 ON</button></a>  
+    <a href=\"/led2off\"\""><button>Led 2 OFF</button></a> 
+    
+</body>
+</html>
